@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Kien (pronouce Kin), a software developer, specializing in backend & blockchain.
+
 <!--
 **akkien/akkien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
